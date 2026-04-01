@@ -150,10 +150,7 @@ int main(void)
 
 ## 🧪 Testing
 
-Community testers to validate your implementation:
-
-- [gnlTester](https://github.com/Tripouille/gnlTester) — the reference tester
-- [42cursus-gnl-tests](https://github.com/mrjvs/42cursus-gnl-tests)
+Tester to validate your implementation:
 - [Francinette](https://github.com/xicodomingues/francinette) — supports GNL too
 
 ---
