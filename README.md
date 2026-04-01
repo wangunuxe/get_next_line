@@ -78,13 +78,6 @@ Last call   → no more data → returns NULL
 
 ## 🧠 Key Concepts
 
-### Static Variable
-```c
-static char *leftover;
-```
-This is the heart of GNL. It survives between calls and holds
-whatever was read beyond the last newline.
-
 ### BUFFER_SIZE
 Defined at compile time, it controls how many bytes are read per
 `read()` call. It can be any positive integer:
